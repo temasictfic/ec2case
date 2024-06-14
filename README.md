@@ -44,6 +44,7 @@ All services I'll use are available [here](https://aws.amazon.com/about-aws/glob
 
 ### Diagram
 [interactive diagram link](https://temasictfic.github.io/ec2case/)
+
 ![Architecture](limon_cloud.jpg)
 
 Example Architectures:  
