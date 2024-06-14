@@ -132,7 +132,7 @@ AWS Shield Standard is a managed Distributed Denial of Service (DDoS) protection
 It helps protect applications running on AWS from common and most frequently observed DDoS attacks.
 Shield Standard is automatically enabled for all AWS customers at no additional cost.
 
-Resources:
+Resources:  
 https://docs.aws.amazon.com/waf/latest/developerguide/ddos-standard-summary.html
 ---
 
@@ -142,7 +142,7 @@ Its primary use is improving latency for end users through accessing cacheable c
 
 For good web performance, it is recommended to enable compression on CloudFront distributions if the origin is S3 or another source that does not already compress.
 
-# Resources
+Resources:  
 https://github.com/open-guides/og-aws?tab=readme-ov-file#cloudfront
 
 ---
