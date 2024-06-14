@@ -43,7 +43,7 @@ According to this work https://www.concurrencylabs.com/blog/choose-your-aws-regi
 All services I'll use are available [here](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/).
 
 ### Diagram
-[interactive diagram link]()
+[interactive diagram link](https://temasictfic.github.io/ec2case/)
 ![Architecture](limon_cloud.jpg)
 
 Example Architectures:  
