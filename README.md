@@ -2,23 +2,23 @@
 
 ## Case
 
-1- hosting101.com high trafic website
-2- Variable traffic load, max 10k traffic 
-3- SEO score is very important, it should load very quickly
-4- Website is under attack from different countries and ip adresses
-5- It needs daily backup
+1. hosting101.com high trafic website
+2. Variable traffic load, max 10k traffic 
+3. SEO score is very important, it should load very quickly
+4. Website is under attack from different countries and ip adresses
+5. It needs daily backup
 
 ### Stack
-1- Wordpress, PHP 8.1
-2- Database, MariaDB
-3- Site size 30gb
-4- Memcached
+1. Wordpress, PHP 8.1
+2. Database, MariaDB
+3. Site size 30gb
+4. Memcached
 
 ### Demands
-1- Draw architecture diagram with draw.io
-2- Calculate cost of system with AWS Pricing Calculator
-3- Give detail about network. Create VPS, determine CIDR blocks and show subnets
-4- Prepare Proof of Concept Phase 1 according to flow.
+1. Draw architecture diagram with draw.io
+2. Calculate cost of system with AWS Pricing Calculator
+3. Give detail about network. Create VPS, determine CIDR blocks and show subnets
+4. Prepare Proof of Concept Phase 1 according to flow.
 
 ---
 
