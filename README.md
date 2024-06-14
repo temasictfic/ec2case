@@ -35,7 +35,7 @@
 
 #### Cost
 
-According to this work \[https://www.concurrencylabs.com/blog/choose-your-aws-region-wisely/](https://www.concurrencylabs.com/blog/choose-your-aws-region-wisely/)]
+According to this work \https://www.concurrencylabs.com/blog/choose-your-aws-region-wisely/(https://www.concurrencylabs.com/blog/choose-your-aws-region-wisely/)]
 
     Cheapest regions considering latency: Stockholm, Ireland, Frankfurt
     Cheapest region among lowest latency regions: Frankfurt
