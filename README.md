@@ -122,7 +122,7 @@ HTTPS and HTTP requests are supported with this service.
 WAF's strength is in detecting malicious activity based on pattern-matching inputs for attacks such as SQL injections, XSS, etc.
 WAF supports inspection of requests received through both IPv6 and IPv4.
 
-Resources:
+Resources:  
 https://github.com/open-guides/og-aws?tab=readme-ov-file#waf
 
 ---
@@ -135,6 +135,7 @@ Shield Standard is automatically enabled for all AWS customers at no additional 
 
 Resources:  
 https://docs.aws.amazon.com/waf/latest/developerguide/ddos-standard-summary.html
+
 ---
 
 #### CloudFront
@@ -188,7 +189,7 @@ The AWS Application Load Balancer (ALB) is a load balancing service provided by 
 - ALB supports various routing methods, allowing you to route traffic based on the content of the request, the path of the URL, or other criteria.
 - ALB is a regional service, meaning it is scoped to a specific AWS region.
 
-Resource: 
+Resource:  
 https://github.com/open-guides/og-aws?tab=readme-ov-file#alb
 https://docs.aws.amazon.com/elasticloadbalancing/latest/application/introduction.html
 
@@ -228,7 +229,7 @@ They can be configured through Scaling Policies to automatically increase or dec
 There are three common ways of using ASGs - dynamic (automatically adjust instance count based on metrics for things like CPU utilization), static (maintain a specific instance count at all times), scheduled (maintain different instance counts at different times of day or on days of the week).
 💸ASGs have no additional charge themselves; you pay for underlying EC2 and CloudWatch services.
 
-Resource:
+Resource:  
 https://github.com/open-guides/og-aws?tab=readme-ov-file#auto-scaling-basics
 
 ---
@@ -243,7 +244,6 @@ groups, and configuring networking. It also includes utilities for monitoring an
 For more information about the AWS EC2 service, refer to the official documentation:
 
 Resource:  
-
 https://github.com/open-guides/og-aws?tab=readme-ov-file#ec2
 https://docs.aws.amazon.com/ec2/
 
@@ -305,7 +305,7 @@ EFS is designed to be used as a shared network drive and it can automatically sc
 EFS can offer higher throughput (multiple gigabytes per second) and better durability and availability than EBS (see the comparison table), but with higher latency.
 EFS is priced based on the volume of data stored, and costs much more than EBS; it's in the ballpark of three times as much compared to general purpose gp2 EBS volumes.
 
-Resource:
+Resource:  
 https://github.com/open-guides/og-aws?tab=readme-ov-file#efs
 
 ---
@@ -316,7 +316,7 @@ The AWS Simple Storage Service (S3) is a scalable object storage service that al
 large amounts of data. It provides durability, availability, and security for your data. With S3, you can store
 and retrieve any amount of data from anywhere on the web.
 
-Resource:
+Resource:  
 https://github.com/open-guides/og-aws?tab=readme-ov-file#s3
 https://docs.aws.amazon.com/s3/index.html
 https://github.com/open-guides/og-aws?tab=readme-ov-file#storage-durability-availability-and-price
