@@ -47,13 +47,13 @@ All services I'll use are available [here](https://aws.amazon.com/about-aws/glob
     ![Architecture](/limon_cloud.jpg)
 
     Example Architectures:
-        [https://docs.aws.amazon.com/whitepapers/latest/best-practices-wordpress/reference-architecture.html]
-        [https://github.com/aws-samples/aws-refarch-wordpress?tab=readme-ov-file]
-        [https://medium.com/@vcoder/highly-available-and-secured-wordpress-on-aws-a-comprehensive-guide-56cbf7808a35]
-        [https://apg-library.amazonaws.com/content/0db96376-dadb-4545-b130-ebbe64acd4e9]
+        [https://docs.aws.amazon.com/whitepapers/latest/best-practices-wordpress/reference-architecture.html](https://docs.aws.amazon.com/whitepapers/latest/best-practices-wordpress/reference-architecture.html)
+        [https://github.com/aws-samples/aws-refarch-wordpress?tab=readme-ov-file](https://github.com/aws-samples/aws-refarch-wordpress?tab=readme-ov-file)
+        [https://medium.com/@vcoder/highly-available-and-secured-wordpress-on-aws-a-comprehensive-guide-56cbf7808a35](https://medium.com/@vcoder/highly-available-and-secured-wordpress-on-aws-a-comprehensive-guide-56cbf7808a35)
+        [https://apg-library.amazonaws.com/content/0db96376-dadb-4545-b130-ebbe64acd4e9](https://apg-library.amazonaws.com/content/0db96376-dadb-4545-b130-ebbe64acd4e9)
 
     Extra:
-        [https://github.com/awslabs/diagram-as-code]
+        [https://github.com/awslabs/diagram-as-code](https://github.com/awslabs/diagram-as-code)
 
 ### Network Configuration Detail
 
@@ -71,29 +71,29 @@ All services I'll use are available [here](https://aws.amazon.com/about-aws/glob
 
 ### Cost Estimate
 
-    [https://calculator.aws/#/estimate?id=a683e2aaef679fb031519f81b21cacf8d0037c66]
+    [https://calculator.aws/#/estimate?id=a683e2aaef679fb031519f81b21cacf8d0037c66](https://calculator.aws/#/estimate?id=a683e2aaef679fb031519f81b21cacf8d0037c66)
 
     Resources:
 
-    [https://freedium.cfd/https://medium.com/geekculture/how-to-estimate-vcpu-core-memory-disk-size-for-a-cloud-server-31fa26c883f5]
-    [https://nestify.io/blog/aws-wordpress-hosting-cost-in-2024/]
+    [https://freedium.cfd/https://medium.com/geekculture/how-to-estimate-vcpu-core-memory-disk-size-for-a-cloud-server-31fa26c883f5](https://freedium.cfd/https://medium.com/geekculture/how-to-estimate-vcpu-core-memory-disk-size-for-a-cloud-server-31fa26c883f5)
+    [https://nestify.io/blog/aws-wordpress-hosting-cost-in-2024/](https://nestify.io/blog/aws-wordpress-hosting-cost-in-2024/)
 
-    [https://medium.com/aws-activate-startup-blog/scaling-on-aws-part-1-a-primer-dbf1276ded5a#.fqkp7yg1k]
-    [https://medium.com/aws-activate-startup-blog/scaling-on-aws-part-2-10k-users-8ad391a56de6#.2em51ojaa]
-    [https://medium.com/aws-activate-startup-blog/scaling-on-aws-part-3-500k-users-3750b227b761#.cdpgobkxz]
-    [https://medium.com/aws-activate-startup-blog/scaling-on-aws-part-4-one-million-users-82ae773a55cc#.eu20777sa]
+    [https://medium.com/aws-activate-startup-blog/scaling-on-aws-part-1-a-primer-dbf1276ded5a#.fqkp7yg1k](https://medium.com/aws-activate-startup-blog/scaling-on-aws-part-1-a-primer-dbf1276ded5a#.fqkp7yg1k)
+    [https://medium.com/aws-activate-startup-blog/scaling-on-aws-part-2-10k-users-8ad391a56de6#.2em51ojaa](https://medium.com/aws-activate-startup-blog/scaling-on-aws-part-2-10k-users-8ad391a56de6#.2em51ojaa)
+    [https://medium.com/aws-activate-startup-blog/scaling-on-aws-part-3-500k-users-3750b227b761#.cdpgobkxz](https://medium.com/aws-activate-startup-blog/scaling-on-aws-part-3-500k-users-3750b227b761#.cdpgobkxz)
+    [https://medium.com/aws-activate-startup-blog/scaling-on-aws-part-4-one-million-users-82ae773a55cc#.eu20777sa](https://medium.com/aws-activate-startup-blog/scaling-on-aws-part-4-one-million-users-82ae773a55cc#.eu20777sa)
 
-    [https://techinsidertalk.com/aws-wordpress-hosting-cost/]
-    [https://pagespeed.website/blog/how-much-does-wordpress-hosting-on-aws-really-cost]
+    [https://techinsidertalk.com/aws-wordpress-hosting-cost/](https://techinsidertalk.com/aws-wordpress-hosting-cost/)
+    [https://pagespeed.website/blog/how-much-does-wordpress-hosting-on-aws-really-cost](https://pagespeed.website/blog/how-much-does-wordpress-hosting-on-aws-really-cost)
 
-    [https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/amazon-ec2-cost-breakdown.html]
-    [https://docs.aws.amazon.com/pricing-calculator/latest/userguide/ec2-estimates.html]
-    [https://aws.amazon.com/calculator/calculator-assumptions/]
+    [https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/amazon-ec2-cost-breakdown.html](https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/amazon-ec2-cost-breakdown.html)
+    [https://docs.aws.amazon.com/pricing-calculator/latest/userguide/ec2-estimates.html](https://docs.aws.amazon.com/pricing-calculator/latest/userguide/ec2-estimates.html)
+    [https://aws.amazon.com/calculator/calculator-assumptions/](https://aws.amazon.com/calculator/calculator-assumptions/)
 
 
     Extras:
-        [https://www.densify.com/resources/ec2-instance-types/]
-        [https://aws.amazon.com/blogs/architecture/overview-of-data-transfer-costs-for-common-architectures]
+        [https://www.densify.com/resources/ec2-instance-types/](https://www.densify.com/resources/ec2-instance-types/)
+        [https://aws.amazon.com/blogs/architecture/overview-of-data-transfer-costs-for-common-architectures](https://aws.amazon.com/blogs/architecture/overview-of-data-transfer-costs-for-common-architectures)
 
 
 ### Notes for Chosen Services
@@ -105,8 +105,8 @@ All services I'll use are available [here](https://aws.amazon.com/about-aws/glob
     3- Route 53 provides various features like domain registration, DNS management, health checks, and traffic routing policies.
 
     Resources:
-    [https://github.com/open-guides/og-aws?tab=readme-ov-file#route-53]
-    [https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html#routing-policy-latency]
+    [https://github.com/open-guides/og-aws?tab=readme-ov-file#route-53](https://github.com/open-guides/og-aws?tab=readme-ov-file#route-53)
+    [https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html#routing-policy-latency](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html#routing-policy-latency)
 
 -------------------------------------------------------------------------------------------------------------------
 #### WAF
@@ -117,7 +117,7 @@ All services I'll use are available [here](https://aws.amazon.com/about-aws/glob
     4- WAF supports inspection of requests received through both IPv6 and IPv4.
 
     Resources:
-    [https://github.com/open-guides/og-aws?tab=readme-ov-file#waf]
+    [https://github.com/open-guides/og-aws?tab=readme-ov-file#waf](https://github.com/open-guides/og-aws?tab=readme-ov-file#waf)
 
 ------------------------------------------------------------------------------------------------------
 
@@ -128,7 +128,7 @@ All services I'll use are available [here](https://aws.amazon.com/about-aws/glob
     Shield Standard is automatically enabled for all AWS customers at no additional cost.
 
     Resources:
-    [https://docs.aws.amazon.com/waf/latest/developerguide/ddos-standard-summary.html]
+    [https://docs.aws.amazon.com/waf/latest/developerguide/ddos-standard-summary.html](https://docs.aws.amazon.com/waf/latest/developerguide/ddos-standard-summary.html)
 
 ------------------------------------------------------------------------------------------------------
 
@@ -139,7 +139,7 @@ All services I'll use are available [here](https://aws.amazon.com/about-aws/glob
     3- For good web performance, it is recommended to enable compression on CloudFront distributions if the origin is S3 or another source that does not already compress.
 
     # Resources
-    [https://github.com/open-guides/og-aws?tab=readme-ov-file#cloudfront]
+    [https://github.com/open-guides/og-aws?tab=readme-ov-file#cloudfront](https://github.com/open-guides/og-aws?tab=readme-ov-file#cloudfront)
 
 ------------------------------------------------------------------------------------------------------
 
@@ -153,8 +153,8 @@ All services I'll use are available [here](https://aws.amazon.com/about-aws/glob
     4. ACM automatically handles the renewal and deployment of the certificate, ensuring your applications are always secured.
 
     Resource: 
-    [https://github.com/open-guides/og-aws?tab=readme-ov-file#certificate-manager]
-    [https://docs.aws.amazon.com/acm/latest/userguide/what-is-acm.html]
+    [https://github.com/open-guides/og-aws?tab=readme-ov-file#certificate-manager](https://github.com/open-guides/og-aws?tab=readme-ov-file#certificate-manager)
+    [https://docs.aws.amazon.com/acm/latest/userguide/what-is-acm.html]https://docs.aws.amazon.com/acm/latest/userguide/what-is-acm.html
 
 ------------------------------------------------------------------------------------------------------
 
@@ -169,7 +169,7 @@ All services I'll use are available [here](https://aws.amazon.com/about-aws/glob
     4. **Security**: It provides protection against common network-based attacks, such as DDoS attacks, by leveraging AWS Shield and other security features.
 
     Resource:
-    [(https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html)]
+    [https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html)
 
 ------------------------------------------------------------------------------------------------------
 
@@ -183,8 +183,8 @@ All services I'll use are available [here](https://aws.amazon.com/about-aws/glob
     - ALB is a regional service, meaning it is scoped to a specific AWS region.
 
     Resource: 
-    [(https://github.com/open-guides/og-aws?tab=readme-ov-file#alb)]
-    [(https://docs.aws.amazon.com/elasticloadbalancing/latest/application/introduction.html)]
+    [https://github.com/open-guides/og-aws?tab=readme-ov-file#alb](https://github.com/open-guides/og-aws?tab=readme-ov-file#alb)
+    [https://docs.aws.amazon.com/elasticloadbalancing/latest/application/introduction.html](https://docs.aws.amazon.com/elasticloadbalancing/latest/application/introduction.html)
 
 ------------------------------------------------------------------------------------------------------
 
@@ -199,8 +199,8 @@ All services I'll use are available [here](https://aws.amazon.com/about-aws/glob
     3. **Highly Available**: It is designed to be highly available and automatically scales to handle increased traffic.
 
     Resource:
-    [https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html]
-    [https://github.com/open-guides/og-aws?tab=readme-ov-file#vpc-and-network-security-gotchas-and-limitations]
+    [https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html)
+    [https://github.com/open-guides/og-aws?tab=readme-ov-file#vpc-and-network-security-gotchas-and-limitations](https://github.com/open-guides/og-aws?tab=readme-ov-file#vpc-and-network-security-gotchas-and-limitations)
 
 ------------------------------------------------------------------------------------------------------
 
@@ -209,9 +209,9 @@ All services I'll use are available [here](https://aws.amazon.com/about-aws/glob
     Using a VPN can provide better visibility and control over connections and connection attempts. It also reduces the attack surface compared to exposing services over the public internet. A common pattern is to use a bastion host behind a VPN for SSH connections. For a cost-effective VPN solution to access private AWS resources, consider using OpenVPN. It can be installed using the official AMI or the openvpn package on Linux, with the latter allowing for unlimited concurrent users. An OpenVPN installer script can assist with installation and adding client keys.
 
     Resource:
-        [https://github.com/open-guides/og-aws?tab=readme-ov-file#vpc-and-network-security-tips]
-        [https://docs.aws.amazon.com/vpc/latest/userguide/vpn-connections.html]
-        [https://cloudonaut.io/your-single-aws-account-is-a-serious-risk/]
+        [https://github.com/open-guides/og-aws?tab=readme-ov-file#vpc-and-network-security-tips](https://github.com/open-guides/og-aws?tab=readme-ov-file#vpc-and-network-security-tips)
+        [https://docs.aws.amazon.com/vpc/latest/userguide/vpn-connections.html](https://docs.aws.amazon.com/vpc/latest/userguide/vpn-connections.html)
+        [https://cloudonaut.io/your-single-aws-account-is-a-serious-risk/](https://cloudonaut.io/your-single-aws-account-is-a-serious-risk/)
 
 ------------------------------------------------------------------------------------------------------
 
@@ -223,7 +223,7 @@ All services I'll use are available [here](https://aws.amazon.com/about-aws/glob
     💸ASGs have no additional charge themselves; you pay for underlying EC2 and CloudWatch services.
 
     Resource:
-        [https://github.com/open-guides/og-aws?tab=readme-ov-file#auto-scaling-basics]
+        [https://github.com/open-guides/og-aws?tab=readme-ov-file#auto-scaling-basics](https://github.com/open-guides/og-aws?tab=readme-ov-file#auto-scaling-basics)
 
 ------------------------------------------------------------------------------------------------------
 
@@ -237,8 +237,8 @@ All services I'll use are available [here](https://aws.amazon.com/about-aws/glob
     For more information about the AWS EC2 service, refer to the official documentation:
     
     Resource:
-        [https://github.com/open-guides/og-aws?tab=readme-ov-file#ec2]
-        [https://docs.aws.amazon.com/ec2/]
+        [https://github.com/open-guides/og-aws?tab=readme-ov-file#ec2](https://github.com/open-guides/og-aws?tab=readme-ov-file#ec2)
+        [https://docs.aws.amazon.com/ec2/](https://docs.aws.amazon.com/ec2/)
 
 
 ------------------------------------------------------------------------------------------------------
@@ -250,7 +250,7 @@ All services I'll use are available [here](https://aws.amazon.com/about-aws/glob
     The main benefit is that AWS takes care of running, patching and optimizing the cache nodes for you, so you just need to launch a cluster and configure its endpoint in your application, while AWS will take of most of the operational work of running the cache nodes.
 
     Resource:
-        [https://github.com/open-guides/og-aws?tab=readme-ov-file#elasticache]
+        [https://github.com/open-guides/og-aws?tab=readme-ov-file#elasticache](https://github.com/open-guides/og-aws?tab=readme-ov-file#elasticache)
 
 ------------------------------------------------------------------------------------------------------
 
@@ -260,12 +260,12 @@ All services I'll use are available [here](https://aws.amazon.com/about-aws/glob
     RDS offers out of the box support for high availability and failover for your databases.
 
     Resource:
-        [https://github.com/open-guides/og-aws?tab=readme-ov-file#rds]
-        [https://github.com/open-guides/og-aws?tab=readme-ov-file#rds]
-        [https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZSingleStandby.html]
-        [https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.html]
-        [https://aws.amazon.com/rds/features/multi-az/?nc1=h_ls]
-        [https://community.aws/content/2dj5ViJTpDlQZYmsplIwGarLcyj/improving-availability-and-performance-with-multi-az-architecture]
+        [https://github.com/open-guides/og-aws?tab=readme-ov-file#rds](https://github.com/open-guides/og-aws?tab=readme-ov-file#rds)
+        [https://github.com/open-guides/og-aws?tab=readme-ov-file#rds-mysql-and-mariadb](https://github.com/open-guides/og-aws?tab=readme-ov-file#rds-mysql-and-mariadb)
+        [https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZSingleStandby.html](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZSingleStandby.html)
+        [https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.html](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.html)
+        [https://aws.amazon.com/rds/features/multi-az/?nc1=h_ls](https://aws.amazon.com/rds/features/multi-az/?nc1=h_ls)
+        [https://community.aws/content/2dj5ViJTpDlQZYmsplIwGarLcyj/improving-availability-and-performance-with-multi-az-architecture](https://community.aws/content/2dj5ViJTpDlQZYmsplIwGarLcyj/improving-availability-and-performance-with-multi-az-architecture)
 
     
     Amazon RDS Multi-AZ Deployments:
@@ -298,7 +298,7 @@ All services I'll use are available [here](https://aws.amazon.com/about-aws/glob
     EFS is priced based on the volume of data stored, and costs much more than EBS; it's in the ballpark of three times as much compared to general purpose gp2 EBS volumes.
 
     Resource:
-        [https://github.com/open-guides/og-aws?tab=readme-ov-file#efs]
+        [https://github.com/open-guides/og-aws?tab=readme-ov-file#efs](https://github.com/open-guides/og-aws?tab=readme-ov-file#efs)
 
 ------------------------------------------------------------------------------------------------------
 
@@ -309,13 +309,13 @@ All services I'll use are available [here](https://aws.amazon.com/about-aws/glob
     and retrieve any amount of data from anywhere on the web.
 
     Resource:
-        [https://github.com/open-guides/og-aws?tab=readme-ov-file#s3]
-        [https://docs.aws.amazon.com/s3/index.html]
-        [https://github.com/open-guides/og-aws?tab=readme-ov-file#storage-durability-availability-and-price]
+        [https://github.com/open-guides/og-aws?tab=readme-ov-file#s3](https://github.com/open-guides/og-aws?tab=readme-ov-file#s3)
+        [https://docs.aws.amazon.com/s3/index.html](https://docs.aws.amazon.com/s3/index.html)
+        [https://github.com/open-guides/og-aws?tab=readme-ov-file#storage-durability-availability-and-price](https://github.com/open-guides/og-aws?tab=readme-ov-file#storage-durability-availability-and-price)
 
 ### Additional Links
-    [https://github.com/fatihes1/AWS-ile-Bulut-Bilisimin-Temelleri?tab=readme-ov-file]
-    [https://github.com/mikeroyal/AWS-Guide]
-    [https://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/]
-    [https://expeditedsecurity.com/aws-in-plain-english/]
-    [https://instances.vantage.sh/]
+    [https://github.com/fatihes1/AWS-ile-Bulut-Bilisimin-Temelleri?tab=readme-ov-file](https://github.com/fatihes1/AWS-ile-Bulut-Bilisimin-Temelleri?tab=readme-ov-file)
+    [https://github.com/mikeroyal/AWS-Guide](https://github.com/mikeroyal/AWS-Guide)
+    [https://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/](https://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/)
+    [https://expeditedsecurity.com/aws-in-plain-english/](https://expeditedsecurity.com/aws-in-plain-english/)
+    [https://instances.vantage.sh/](https://instances.vantage.sh/)
