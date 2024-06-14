@@ -46,7 +46,8 @@ All services I'll use are available [here](https://aws.amazon.com/about-aws/glob
 [interactive diagram link]()
 ![Architecture](limon_cloud.jpg)
 
-Example Architectures:
+Example Architectures:  
+
     https://docs.aws.amazon.com/whitepapers/latest/best-practices-wordpress/reference-architecture.html
     https://github.com/aws-samples/aws-refarch-wordpress?tab=readme-ov-file
     https://medium.com/@vcoder/highly-available-and-secured-wordpress-on-aws-a-comprehensive-guide-56cbf7808a35
