@@ -158,7 +158,7 @@ Validate the ownership of the domain(s) associated with the certificate.
 Use the certificate with AWS services like Elastic Load Balancer (ELB), CloudFront, API Gateway, etc.
 ACM automatically handles the renewal and deployment of the certificate, ensuring your applications are always secured.
 
-Resource: 
+Resource:  
 https://github.com/open-guides/og-aws?tab=readme-ov-file#certificate-manager
 https://docs.aws.amazon.com/acm/latest/userguide/what-is-acm.html
 
