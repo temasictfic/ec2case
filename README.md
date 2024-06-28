@@ -271,13 +271,12 @@ RDS is a managed relational database service, allowing you to deploy and scale d
 RDS offers out of the box support for high availability and failover for your databases.
 
 Resource:  
-https://github.com/open-guides/og-aws?tab=readme-ov-file#rds
-https://github.com/open-guides/og-aws?tab=readme-ov-file#rds-mysql-and-mariadb
-https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZSingleStandby.html
-https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.html
-https://aws.amazon.com/rds/features/multi-az/?nc1=h_ls
-https://community.aws/content/2dj5ViJTpDlQZYmsplIwGarLcyj/
-improving-availability-and-performance-with-multi-az-architecture
+https://github.com/open-guides/og-aws?tab=readme-ov-file#rds  
+https://github.com/open-guides/og-aws?tab=readme-ov-file#rds-mysql-and-mariadb  
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZSingleStandby.html  
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.html  
+https://aws.amazon.com/rds/features/multi-az/?nc1=h_ls  
+https://community.aws/content/2dj5ViJTpDlQZYmsplIwGarLcyj/improving-availability-and-performance-with-multi-az-architecture
 
     
 Amazon RDS Multi-AZ Deployments:  
