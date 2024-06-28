@@ -57,7 +57,9 @@ https://apg-library.amazonaws.com/content/0db96376-dadb-4545-b130-ebbe64acd4e9
 
 Extra:  
 
-https://github.com/awslabs/diagram-as-code
+https://github.com/awslabs/diagram-as-code  
+https://diagrams.mingrammer.com/docs/nodes/aws  
+https://github.com/mingrammer/diagrams  
 
 ### Network Configuration Detail
 
@@ -251,7 +253,7 @@ groups, and configuring networking. It also includes utilities for monitoring an
 For more information about the AWS EC2 service, refer to the official documentation:
 
 Resource:  
-https://github.com/open-guides/og-aws?tab=readme-ov-file#ec2
+https://github.com/open-guides/og-aws?tab=readme-ov-file#ec2  
 https://docs.aws.amazon.com/ec2/
 
 
@@ -330,7 +332,12 @@ https://github.com/fatihes1/AWS-ile-Bulut-Bilisimin-Temelleri?tab=readme-ov-file
 https://github.com/mikeroyal/AWS-Guide
 https://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/
 https://expeditedsecurity.com/aws-in-plain-english/
-https://instances.vantage.sh/
+https://instances.vantage.sh/  
+https://docs.aws.amazon.com/AmazonECS/latest/developerguide/networking-inbound.html
+https://aws.amazon.com/tr/architecture/  
+https://aws.amazon.com/tr/getting-started/hands-on/  
+https://docs.aws.amazon.com/  
+
 
 # ECS and Fargate  
 
@@ -344,5 +351,22 @@ https://github.com/cambridge-collection/terraform-aws-architecture-ecs?tab=readm
 https://aws.amazon.com/tr/blogs/architecture/field-notes-serverless-container-based-apis-with-amazon-ecs-and-amazon-api-gateway/  
 https://aws.amazon.com/tr/blogs/architecture/why-deployment-requirements-are-important-when-making-architectural-choices/  
 https://aws.amazon.com/tr/blogs/architecture/scaling-rstudio-shiny-using-serverless-architecture-and-aws-fargate/  
+https://github.com/aws-samples/ecs-refarch-cloudformation  
+https://catalog.us-east-1.prod.workshops.aws/workshops/4b59b9fb-48b6-461c-9377-907b2e33c9df/en-US/introduction/arch-ecs-fargate  
+https://github.com/aws-cloudformation/aws-cloudformation-templates  
+https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/mobile-web-serverless-RA.pdf?did=wp_card&trk=wp_card  
+https://aws.amazon.com/tr/architecture/reference-architecture-diagrams/  
+https://aws-ia.github.io/cfn-ps-sudo-consultants-serverless-wordpress/  
+https://docs.aws.amazon.com/pdfs/whitepapers/latest/best-practices-wordpress/best-practices-wordpress.pdf#welcome  
+
+# Training  
+
+https://explore.skillbuilder.aws/learn/learning_plan/view/1044/solutions-architect-learning-plan  
+https://www.coursera.org/learn/containerized-applications-on-aws  
+https://www.youtube.com/@Pythoholic/playlists  
+https://aws.amazon.com/tr/training/  
+https://aws.amazon.com/tr/developer/?nc=sn&loc=7&dn=de  
+
+
 
 
