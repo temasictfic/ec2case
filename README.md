@@ -63,11 +63,15 @@ https://github.com/awslabs/diagram-as-code
 
 #### VPC Configuration:  
 
-| CIDR Block     | Subnets                 | Usage                            |
+| VPC CIDR Block     | Subnets                 | Usage                            |
 |----------------|-------------------------|----------------------------------|
 | 10.0.0.0/16    | 10.0.1.0/24, 10.0.2.0/24   | Public Subnets (NAT Gateways and OpenVPN EC2 instance) |
 |                | 10.0.3.0/24, 10.0.4.0/24   | Private Subnets (EC2 instances) |
 |                | 10.0.5.0/24, 10.0.6.0/24   | Private Subnets (RDS, and ElastiCache instances) |
+
+Resource:  
+
+https://docs.aws.amazon.com/vpc/latest/userguide/vpc-cidr-blocks.html
 
 #### Security Groups ve Network ACLs:  
 
