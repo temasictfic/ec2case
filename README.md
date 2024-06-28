@@ -281,18 +281,15 @@ https://community.aws/content/2dj5ViJTpDlQZYmsplIwGarLcyj/improving-availability
     
 Amazon RDS Multi-AZ Deployments:  
 
-In a Multi-AZ deployment, Amazon RDS automatically creates a primary database (DB) instance and synchronously replicates the data to a standby instance in a different Availability Zone1.
-The primary purpose of Multi-AZ deployments is to provide high availability and failover support for DB instances2.
-If the primary DB instance becomes unavailable due to a failure, Amazon RDS automatically fails over to the standby instance without manual intervention1.
-The standby instance is not used to serve read traffic and is not directly accessible2.
-Multi-AZ deployments can be more expensive because they maintain a synchronous standby replica in a different Availability Zone1. This effectively doubles the cost of the instance due to the hot standby capacity it provides.
+1. In a Multi-AZ deployment, Amazon RDS automatically creates a primary database (DB) instance and synchronously replicates the data to a standby instance in a different Availability Zone. The primary purpose of Multi-AZ deployments is to provide high availability and failover support for DB instances  
+2. If the primary DB instance becomes unavailable due to a failure, Amazon RDS automatically fails over to the standby instance without manual intervention. The standby instance is not used to serve read traffic and is not directly accessible.
+3. Multi-AZ deployments can be more expensive because they maintain a synchronous standby replica in a different Availability Zone. This effectively doubles the cost of the instance due to the hot standby capacity it provides.
 
 Read Replicas:  
 
-A Read Replica, on the other hand, is a read-only copy of the database3.
-Read Replicas are primarily used to offload read traffic from the primary DB instance4.
-Unlike the standby instance in a Multi-AZ deployment, Read Replicas serve traffic and are directly accessible5.
-In summary, while both Multi-AZ deployments and Read Replicas provide redundancy, they serve different purposes. Multi-AZ deployments are used for high availability and automatic failover, while Read Replicas are used to scale read operations and offload traffic from the primary DB instance
+1. A Read Replica, on the other hand, is a read-only copy of the database. Read Replicas are primarily used to offload read traffic from the primary DB instance  
+2. Unlike the standby instance in a Multi-AZ deployment, Read Replicas serve traffic and are directly accessible  
+3. In summary, while both Multi-AZ deployments and Read Replicas provide redundancy, they serve different purposes. Multi-AZ deployments are used for high availability and automatic failover, while Read Replicas are used to scale read operations and offload traffic from the primary DB instance
 
 Read Replicas are billed as standard DB instances at the same rates.
 You are not charged for the data transfer incurred in replicating data between your source DB instance and Read Replica within the same AWS Region2. However, there would be data transfer charges for cross-region replication.
@@ -306,7 +303,7 @@ You are not charged for the data transfer incurred in replicating data between y
 It is designed to be highly available and durable and each EFS file system object is redundantly stored across multiple availability zones.
 EFS is designed to be used as a shared network drive and it can automatically scale up to petabytes of stored data and thousands of instances attached to it.
 EFS can offer higher throughput (multiple gigabytes per second) and better durability and availability than EBS (see the comparison table), but with higher latency.
-EFS is priced based on the volume of data stored, and costs much more than EBS; it's in the ballpark of three times as much compared to general purpose gp2 EBS volumes.
+EFS is priced based on the volume of data stored, and costs much more than EBS; it's in the ballpark of three times as much compared to general purpose gp2/3 EBS volumes.
 
 Resource:  
 https://github.com/open-guides/og-aws?tab=readme-ov-file#efs
