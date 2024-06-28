@@ -86,6 +86,9 @@ Resources:
 
 https://freedium.cfd/https://medium.com/geekculture/how-to-estimate-vcpu-core-memory-disk-size-for-a-cloud-server-31fa26c883f5  
 https://nestify.io/blog/aws-wordpress-hosting-cost-in-2024/  
+https://b3n.org/engineering-wordpress-for-10000-visitors-per-second/  
+https://kagg.eu/en/10000-clients-second-wordpress/  
+
 https://medium.com/aws-activate-startup-blog/scaling-on-aws-part-1-a-primer-dbf1276ded5a#.fqkp7yg1k  
 https://medium.com/aws-activate-startup-blog/scaling-on-aws-part-2-10k-users-8ad391a56de6#.2em51ojaa  
 https://medium.com/aws-activate-startup-blog/scaling-on-aws-part-3-500k-users-3750b227b761#.cdpgobkxz  
@@ -328,3 +331,18 @@ https://github.com/mikeroyal/AWS-Guide
 https://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/
 https://expeditedsecurity.com/aws-in-plain-english/
 https://instances.vantage.sh/
+
+# ECS and Fargate  
+
+https://www.infrasource.io/blueprints/wordpress-aws  
+https://containersonaws.com/pattern/?capacity=fargate  
+https://containersonaws.com/visuals/  
+https://github.com/awslabs/ecs-refarch-continuous-deployment  
+https://www.softobotics.com/blogs/building-scalable-applications-with-amazon-ecs/  
+https://blog.beachgeek.co.uk/creating-a-multi-architecture-cicd-solution-with-amazon-ecs-and-ecs-anywhere/#part-one-setting-up-the-multi-architecture-cicd-pipeline  
+https://github.com/cambridge-collection/terraform-aws-architecture-ecs?tab=readme-ov-file  
+https://aws.amazon.com/tr/blogs/architecture/field-notes-serverless-container-based-apis-with-amazon-ecs-and-amazon-api-gateway/  
+https://aws.amazon.com/tr/blogs/architecture/why-deployment-requirements-are-important-when-making-architectural-choices/  
+https://aws.amazon.com/tr/blogs/architecture/scaling-rstudio-shiny-using-serverless-architecture-and-aws-fargate/  
+
+
