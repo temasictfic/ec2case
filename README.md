@@ -367,6 +367,9 @@ https://www.youtube.com/@Pythoholic/playlists
 https://aws.amazon.com/tr/training/  
 https://aws.amazon.com/tr/developer/?nc=sn&loc=7&dn=de  
 
+# Certificate Resource
+https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc
+
 
 
 
